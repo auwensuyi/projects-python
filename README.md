@@ -1,2 +1,2 @@
-# beginnerprojects-python
-A list of beginner projects using python from easy to hard
+# projects-python
+A list of projects using python from easy to hard
